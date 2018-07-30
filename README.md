@@ -3,7 +3,7 @@ This bot sends notifications about changes in weather in chosen city in chosen n
 
 Spring Boot\
 database: H2 In-Memory Database\
-Used api:\
+used api:\
 weather: openweathermap.org;\
 time zone id: timezonedb.com;\
 reverse geo coding: developer.mapquest.com;
